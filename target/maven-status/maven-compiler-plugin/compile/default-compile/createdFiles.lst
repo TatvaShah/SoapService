@@ -1,0 +1,10 @@
+movie\Movies_1.class
+movie\exceptions\NonexistentEntityException.class
+com\mycompany\moviesoap\resources\JavaEE8Resource.class
+services\MoviesCRUD.class
+services\MovieSoapWebService.class
+movie\exceptions\IllegalOrphanException.class
+movie\Movies.class
+movie\Movies_1JpaController.class
+com\mycompany\moviesoap\JAXRSConfiguration.class
+movie\exceptions\PreexistingEntityException.class
